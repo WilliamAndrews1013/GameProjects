@@ -10,3 +10,6 @@
 
 <h1>Plushie's Tower (https://davewave0.itch.io/plushies-tower)</h1>
 <p>Plushie's Tower is a game that me and 7 other people came up with in 46 hours during the Sherbrooke GameJam. The theme we had for the game was "Innocence". We came up with the idea that you were a child that has to take a nap but you don't want too. So instead of falling asleep you want to go out and play. So you have to complete tasks to get plushies so you can jump on them to get out through the window. For this project I mainly worked on the Cube Puzzle (Putting objects in the right slot of the cube) as well as making the main menu and adding in the music and sound effects. This was my first time making a 3D game in a team and I learnt a lot from working on this game.</p>
+
+<h1>TAG 'EM ALL (https://fcozzuto.itch.io/tag-em-all)</h1>
+<p></p>
